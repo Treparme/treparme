@@ -1,4 +1,4 @@
-# 🚀 Welcome to Tiebe's Cosmic GitHub Universe! 🚀
+# 🚀 Welcome to Tiebe's Cosmic Universe! 🚀
 Hi there! I'm Tiebe, a coding astronaut 🚀 exploring the infinite galaxy of programming, AI, and customer experience. Currently, I'm crafting the future at Tekst.ai, where I dive into the cosmic depths of CX and AI!
 
 
