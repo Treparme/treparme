@@ -11,7 +11,7 @@ Hi there! I'm Tiebe, a coding astronaut 🚀 exploring the infinite galaxy of pr
 - I adore full-stack adventures across the universe 🌌
 - My superpower? Skyrocketing projects from 0 to 80% completion 🌠
 - Proud holder of a Computer Science degree from the University of Ghent, Belgium 🎓
-- Absolutely obsessed with Multilingual NLP (Hey Nederlandstalige AI! 👋)
+- Absolutely **obsessed** with Multilingual NLP (Hey Nederlandstalige AI! 👋)
 - My programming arsenal includes: Python, JS, TS, Solidity, React, PyTorch (Lightning), AWS, Azure, GCP, and more! 💻
 - I thrive in the heat of competition – it's when I truly shine! ✨
 - That's enough about me, let's blast off and explore the universe together! 🌍💫
